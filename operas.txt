@@ -3,11 +3,14 @@ Aida                                   ROH/OpusArte
 Armida                                 Met/Decca
 Carmen (Francesco Rosi film)           Gaumont
 Carmen                                 ROH/Decca
+Carmen                                 Met/DG
 Cavalleria Rusticania/Pagliacci        DG
 Cosi fan Tutte (Peter Sellars film)    Decca
 Der Rosenkavalier                      Vienna/Decca
+Doctor Atomic (Peter Sellars)          Netherlands/OpusArte
 Don Giovanni                           Zurich/EMI
 Don Giovanni (Peter Sellars)           Decca
+Don Giovanni                           Glyndebourne/NCVArts
 Eugene Onegin                          Met/Decca
 Fidelio                                Met/DG
 Hansel and Gretel                      Met/EMI
@@ -18,6 +21,7 @@ La Boheme (Baz Luhrmann)               OperaAustralia
 La Boheme                              DG Popular Puccini
 Madama Butterfly                       DG Popular Puccini
 Madama Butterfly                       Met/Sony
+Manon Lescaut                          ROH/Warner
 Marriage of Figaro                     France/DG
 Pelleas et Melisande                   Vienna/Virgin
 Peter Grimes                           Zurich/EMI
@@ -25,6 +29,7 @@ Peter Grimes                           Met/EMI
 Phantom of the Opera (Joel Schum film) Universal
 Porgy and Bess (Trevor Nunn film)      EMI
 Powaqqatsi (Godfrey Reggio)            MGM
+Ring of the Niebelung Complete         Met/DG
 Rigoletto                              Met/DG
 Tommy (Ken Russell)                    Umbrella
 Tosca                                  DG Popular Puccini
@@ -38,5 +43,7 @@ Amadeus (Milos Forman movie)           Warner Brothers
 Beethoven Cello Sonatas Rostrop/Richt  EMI
 Dudamel/Florez Celebration             DG
 Keeping Score: Rite of Spring          SanFranSymp
+Mozart String Quartets                 Gewandhaus
+Musical Renegades: ACO                 ABC
 Wagner & Me (Stephen Fry)              antidote
 Winterreise Quasthoff/Barenboim        DG
