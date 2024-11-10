@@ -1,0 +1,22 @@
+# Seasons of TV series, besides Dr Who which has its own file
+Ashes to Ashes Series 1                BBC
+Ashes to Ashes Series 2                BBC
+Ashes to Ashes Series 3                BBC
+Black Books Series 1                   ChannelFour
+Black Books Series 3                   ChannelFour
+Boardwalk Empire Season 1              HBO
+Boardwalk Empire Season 2              HBO
+Boardwalk Empire Season 3              HBO
+Boardwalk Empire Season 4              HBO
+Dilbert Complete Series                Sony
+Get Smart Season 2                     TimeLife
+Hancock's Half Hour Volume Two         BBC
+Hancock final Series eps 1-5           BBC
+The Hour Series 1                      BBC
+Life on Mars Series 1                  BBC
+Life on Mars Series 2                  BBC
+Silicon Valley Season 1                HBO
+Sherlock Series 1                      BBC
+State of Play Complete                 BBC
+The Thick of It Series 1 and 2         BBC
+The Thick of It Series 4               BBC
