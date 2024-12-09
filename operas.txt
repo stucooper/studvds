@@ -20,8 +20,10 @@ Julius Caesar                          OperaAustralia
 Julius Caesar (Peter Sellars)          Decca
 La Boheme (Baz Luhrmann)               OperaAustralia
 La Boheme                              DG Popular Puccini
+Lucia di Lammermoor                    OperaAustralia/ABC
 Madama Butterfly                       DG Popular Puccini
 Madama Butterfly                       Met/Sony
+Madama Butterfly                       OperaAustralia/Harbour
 Manon Lescaut                          ROH/Warner
 Marriage of Figaro                     France/DG
 Pelleas et Melisande                   Vienna/Virgin
@@ -46,5 +48,6 @@ Dudamel/Florez Celebration             DG
 Keeping Score: Rite of Spring          SanFranSymp
 Mozart String Quartets                 Gewandhaus
 Musical Renegades: ACO                 ABC
+Philippe Jaroussky: Voix des Reves     Virgin
 Wagner & Me (Stephen Fry)              antidote
 Winterreise Quasthoff/Barenboim        DG
