@@ -16,6 +16,7 @@ State of Origin Classics WA/VIC 1984 SA/VIC  1986
 State of Origin Classics WA/VIC 1986 SA/VIC  1988
 State of Origin Classics VIC/SA 1989 TAS/VIC 1990
 State of Origin Classics VIC/WA 1990 VIC/SA  1991
+State of Origin Classics SA/VIC 1992 VIC/SA  1995
 # Grand Finals
 1996 North Melbourne
 1997 Adelaide Crows
